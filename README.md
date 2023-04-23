@@ -31,4 +31,3 @@ This software is for demonstration purposes only and is not actively maintained.
 ## License
 
 This software is distributed under the MIT License. See the `LICENSE` file for more information.
-
