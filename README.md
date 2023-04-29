@@ -1,38 +1,34 @@
 # Project Management Tool
 
-Project Management Tool is an experimental project management tool built as part of my front-end development portfolio, showcasing my skills as a developer and allowing users to manage and track their projects with a range of features. It's built using modern front-end technologies and optimized for performance.
+This is a fictitious project management software created for the purpose of demonstration and training in frontend application development.
 
 ## Features
 
-- Create and manage projects
-- Add and manage tasks within projects
-- Track progress and completion status of tasks
-- Collaborate with team members on projects
-- Responsive design optimized for multiple devices
+This project management software has the following basic features:
+
+- **Project registration:** allow users to create a new project with information such as name, description, and delivery deadline.
+- **Task list:** allow users to create a task list for each project, with information such as name and description.
+- **Task status:** allow users to update the status of each task (e.g. "in progress", "completed", "pending", etc.).
+- **Comments:** allow users to comment on each task, including attachments such as images or files.
 
 ## Technologies Used
 
-- React
+This software was developed using the following technologies:
+
+- HTML
 - CSS
 - JavaScript
-- HTML
+- React.js
 
-## Installation
+## How to use the software
 
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Run the application: `npm start`
+To use the software, simply clone this repository and run the `npm start` command. Make sure to have Node.js and React installed on your computer before running the command.
 
-Please note that this is a non-production application.
+## Contribution
 
-## Contributing
-
-If you would like to contribute to this project, please feel free to fork the repository and submit a pull request.
+This software is for demonstration purposes only and is not actively maintained. However, feel free to clone and modify this repository for educational or training purposes.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This software is distributed under the MIT License. See the `LICENSE` file for more information.
 
----
-
-I hope this helps!
